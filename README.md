@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gynia!
-- 👀 I’m interested in meeting new people and gaining more experience. 
+- 👋 Hi, I’m Mani!
+- 👀 I’m interested in cyber networking. 
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: via email (gynia.armani@gmail.com)
